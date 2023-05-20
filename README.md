@@ -8,3 +8,4 @@
 ```
 setInterval( function () { var claimBtn = Array.from(document.querySelectorAll('button')) .find(el => el.textContent === 'Claim'); claimBtn.click() }, 100)
 ```
+##### Disclaimer: This script is for educational purposes only. Use at your own risk, you may be banned from the site for botting activities.
